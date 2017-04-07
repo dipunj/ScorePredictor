@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------
 |S.no  |	Name		    |Type		      |		Task |
-|:----:|:-----------------------|:---------------------|--------------------------------------------------- |
+|:----:|:-----------------------|:--------------------:|--------------------------------------------------- |
 |1.    |Driver.m                |MATLAB Script         |The main script file containing the main program. |
 |2.    |cost.m                  |Function              |Evaluates cost. |
 |3.    |expo.m                  |Function              |exponentiate a particular column of a matrix. |
@@ -23,18 +23,21 @@
 ### <center>II. System Requirements</center>
 
 --------------------------------------------------------------------------------
-Software Requirements : <br>
+Software Requirements :
+
 	1. MATLAB R2015a or later
 	2. CSV file reader (MS Excel, notepad etc)
 	3. ASCII text reader
-	<br>
+
 Hardware Requirements : 
+
 	None in Specific
 
 
 
 --------------------------------------------------------------------------------
 <center><h3>III. Instructions</h3></center>
+
 --------------------------------------------------------------------------------
 
 RUNNING THE PROGRAM
