@@ -3,34 +3,21 @@
 ### <center>I.  File List </center>
 
 --------------------------------------------------------------------------------
-S.no |	Name			 |	Type		   |		Task
------|-----------------------|----------------------|---------------------------------------------------
-1.   |Driver.m               |Script                |The main script file containing the main program.
------|-----------------------|----------------------|---------------------------------------------------
-2.   |cost.m                 |Function              |Evaluates cost.
------|-----------------------|----------------------|---------------------------------------------------
-3.   |expo.m                 |Function              |exponentiate a particular column of a matrix.
------|-----------------------|----------------------|---------------------------------------------------
-4.   |import_feature.m       |Function              |import the data from training.csv...Preprocesses the data.
------|-----------------------|----------------------|---------------------------------------------------
-5.   |import_target.m        |Function              |Imports the G1 G2 G3 i.e target vectors into a numeric matrix.
------|-----------------------|----------------------|---------------------------------------------------
-6.   |PlotFig.m              |Function              |Generates plots for the predicted and actual values for testing purposes
------|-----------------------|----------------------|---------------------------------------------------
-7.   |Scaling.m              |Function              |Causes a particular feature in the feature matrix to be Scaled using 
------|-----------------------|----------------------|---------------------------------------------------Normalised mean
-8.   |training.csv           |.csv(comma delimited) |Column 5 has been preprocessed according to preprocessing scheme
------|-----------------------|----------------------|---------------------------------------------------
-9.   |training_set_q1.csv    |.csv(comma delimited) |The original(RAW) training file.
------|-----------------------|----------------------|---------------------------------------------------
-10.  |test.csv               |.csv(comma delimited) |Column 5 has been preprocessed according to preprocessing scheme.
------|-----------------------|----------------------|---------------------------------------------------
-11.  |test_set_q1_upload.csv |.csv(comma delimited) |The Original(RAW) test cases file.
------|-----------------------|----------------------|---------------------------------------------------
-12.  |output.csv             |.csv(comma delimited) |Contains 3 columns G1 predicted, G2 predicted & G3 predicted respectively.
------|-----------------------|----------------------|---------------------------------------------------
-13.  |classifier.csv         |.csv(comma delimited) |Contains 3 columns containing parameters for G1 , G2 & G3 respectively.
------|-----------------------|----------------------|---------------------------------------------------
+S.no |	Name			 |	Type		   |		Task									|
+-----|-----------------------|----------------------|---------------------------------------------------				|
+1.   |Driver.m               |Script                |The main script file containing the main program.				|
+2.   |cost.m                 |Function              |Evaluates cost.									|
+3.   |expo.m                 |Function              |exponentiate a particular column of a matrix.				|
+4.   |import_feature.m       |Function              |import the data from training.csv...Preprocesses the data.			|
+5.   |import_target.m        |Function              |Imports the G1 G2 G3 i.e target vectors into a numeric matrix.		|
+6.   |PlotFig.m              |Function              |Generates plots for the predicted and actual values for testing purposes	|
+7.   |Scaling.m              |Function              |Causes a particular feature in the feature matrix to be Scaled using Normalised mean |
+8.   |training.csv           |.csv(comma delimited) |Column 5 has been preprocessed according to preprocessing scheme 		|
+9.   |training_set_q1.csv    |.csv(comma delimited) |The original(RAW) training file.						|
+10.  |test.csv               |.csv(comma delimited) |Column 5 has been preprocessed according to preprocessing scheme.		|
+11.  |test_set_q1_upload.csv |.csv(comma delimited) |The Original(RAW) test cases file.						|
+12.  |output.csv             |.csv(comma delimited) |Contains 3 columns G1 predicted, G2 predicted & G3 predicted respectively.|
+13.  |classifier.csv         |.csv(comma delimited) |Contains 3 columns containing parameters for G1 , G2 & G3 respectively.	|
 
 --------------------------------------------------------------------------------
 ### <center>II. System Requirements</center>
