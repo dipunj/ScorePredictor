@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------
-### <center>I.  File List </center>
+<center><h3>I. File List</h3></center>
 
 --------------------------------------------------------------------------------
 |S.no  |	Name		    |Type		      |		Task |
@@ -32,7 +32,7 @@ Hardware Requirements :
 
 
 --------------------------------------------------------------------------------
-<center>### III. Instructions </center>
+<center><h3>III. Instructions</h3></center>
 --------------------------------------------------------------------------------
 
 RUNNING THE PROGRAM
@@ -71,7 +71,7 @@ CUSTOMISING THE PROGRAM
 		make sure you provide the correct target matrix in line 63.
 
 --------------------------------------------------------------------------------
-### <center>IV. Variable Description for 'Driver.m'</center>
+<center><h3>IV. Variable Description for 'Driver.m'</h3></center>
 --------------------------------------------------------------------------------
 
 | S.No.  | Variable Name	| Description								| Initialised Value(If Applicable) |
