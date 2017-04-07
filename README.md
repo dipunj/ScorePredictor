@@ -58,7 +58,8 @@ CUSTOMISING THE PROGRAM
 
 	* Changing the test file
 	  -----------------------
-		Navigate to line# 63 and 64 of the file 'Driver.m' change the file name 'test.csv' to the file which you intend to check against,
+		Navigate to line# 63 and 64 of the file 'Driver.m' change the file name 'test.csv' 
+		to the file which you intend to check against,
 		and set the first numerical argument to the STARTROW and second numerical argument to ENDROW of your file.
 
 	* Changing Lambda
@@ -67,7 +68,7 @@ CUSTOMISING THE PROGRAM
 		If You intend to use full training set then Reset the value of lambda as follows
 		In line 43 of the main script
 			- Initially lambda is set to for training set (1:470) - - - - - - - - - - - - - - -: [-10,10,20] 
-			- When using full training set, the values of lambda best suited are - - - - - - - -: [-10,-10,20]
+			- When using full training set, the values of lambda best suited are - - -  - - - -: [-10,-10,20]
 
 	* Getting Comparision Plot
 	  -----------------------
@@ -81,7 +82,7 @@ CUSTOMISING THE PROGRAM
 --------------------------------------------------------------------------------
 
 | S.No.  | Variable Name	| Description								| Initialised Value(If Applicable) |
-|:------:|:----------------:|:------------------------------------------------------------:|:--------------------------------:|
+|:------:|:-----------------|:-------------------------------------------------------------|:--------------------------------:|
 | 1.	  |	alpha		|	learning rate 						| 0.001 				|
 | 2.	  |	ctr		|	counter							| 1 					|
 | 3.	  |	dim		|	Dimensions of the feature matrix				| - 					|
@@ -107,7 +108,7 @@ CUSTOMISING THE PROGRAM
 --------------------------------------------------------------------------------
 
 | Column No. 	|	Value Input	|	Assigned to  |
-|:-----------:|:------------------:|:-----------------:|
+|:-----------:|:-------------------|:-----------------:|
 | 1.		|	NITA		|	1 	      |
 | 		|	IIITA		|	0 	      |
 | 2.		|	Female		|	1 	      |
