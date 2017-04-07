@@ -4,8 +4,8 @@
 
 --------------------------------------------------------------------------------
 |S.no  |	Name		    |Type		      |		Task |
-|:----:|:-----------------------|:--------------------:|--------------------------------------------------- |
-|1.    |Driver.m                |Script                |The main script file containing the main program. |
+|:----:|:-----------------------|:---------------------|--------------------------------------------------- |
+|1.    |Driver.m                |MATLAB Script         |The main script file containing the main program. |
 |2.    |cost.m                  |Function              |Evaluates cost. |
 |3.    |expo.m                  |Function              |exponentiate a particular column of a matrix. |
 |4.    |import_feature.m        |Function              |import the data from training.csv...Preprocesses the data. |
@@ -21,11 +21,13 @@
 
 --------------------------------------------------------------------------------
 ### <center>II. System Requirements</center>
+
 --------------------------------------------------------------------------------
-Software Requirements : 
+Software Requirements : <br>
 	1. MATLAB R2015a or later
 	2. CSV file reader (MS Excel, notepad etc)
 	3. ASCII text reader
+	<br>
 Hardware Requirements : 
 	None in Specific
 
@@ -71,9 +73,8 @@ CUSTOMISING THE PROGRAM
 		make sure you provide the correct target matrix in line 63.
 
 --------------------------------------------------------------------------------
-<p align = "center">
 <h3>IV. Variable Description for 'Driver.m'</h3>
-</p>
+
 --------------------------------------------------------------------------------
 
 | S.No.  | Variable Name	| Description								| Initialised Value(If Applicable) |
@@ -99,6 +100,7 @@ CUSTOMISING THE PROGRAM
 
 --------------------------------------------------------------------------------
 ### <center>V. Preprocessing Scheme</center>
+
 --------------------------------------------------------------------------------
 
 | Column No. 	|	Value Input	|	Assigned to  |
