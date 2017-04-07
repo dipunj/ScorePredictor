@@ -1,8 +1,11 @@
-|<h3>I. File List</h3> |
-|:-------------------------------------------------------------------------------:|
+--------------------------------------------------------------------------------
+<h3 align="center">
+I. File List
+</h3>
 
+--------------------------------------------------------------------------------
 |S.no  |	Name		    |Type		      |		Task |
-|:----:|:-----------------------|:--------------------:|--------------------------------------------------- |
+|:----:|:-----------------------|:---------------------|--------------------------------------------------- |
 |1.    |Driver.m                |MATLAB Script         |The main script file containing the main program. |
 |2.    |cost.m                  |Function              |Evaluates cost. |
 |3.    |expo.m                  |Function              |exponentiate a particular column of a matrix. |
@@ -18,7 +21,9 @@
 |13.   |classifier.csv          |.csv(comma delimited) |Contains 3 columns containing parameters for G1 , G2 & G3 respectively. |
 
 --------------------------------------------------------------------------------
-### <center>II. System Requirements</center>
+<h3 align="center">
+II. System Requirements
+</h3>
 
 --------------------------------------------------------------------------------
 Software Requirements :
@@ -34,7 +39,9 @@ Hardware Requirements :
 
 
 --------------------------------------------------------------------------------
-<center><h3>III. Instructions</h3></center>
+<h3 align="center">
+III. Instructions
+</h3>
 
 --------------------------------------------------------------------------------
 
@@ -56,9 +63,10 @@ CUSTOMISING THE PROGRAM
 
 	* Changing the test file
 	  -----------------------
-		Navigate to line# 63 and 64 of the file 'Driver.m' change the file name 'test.csv' 
-		to the file which you intend to check against,
-		and set the first numerical argument to the STARTROW and second numerical argument to ENDROW of your file.
+		Navigate to line# 63 and 64 of the file 'Driver.m' change the file 
+		name 'test.csv' to the file which you intend to check against,
+		and set the first numerical argument to the STARTROW and second 
+		numerical argument to ENDROW of your file.
 
 	* Changing Lambda
 	 ---------------
@@ -75,7 +83,9 @@ CUSTOMISING THE PROGRAM
 		make sure you provide the correct target matrix in line 63.
 
 --------------------------------------------------------------------------------
-<h3>IV. Variable Description for 'Driver.m'</h3>
+<h3 align="center">
+IV. Variable Description for 'Driver.m'
+</h3>
 
 --------------------------------------------------------------------------------
 
@@ -101,7 +111,9 @@ CUSTOMISING THE PROGRAM
 | 18.	  |	theta_G	|		parameter matrix...stores the trained parameters.| - 					|
 
 --------------------------------------------------------------------------------
-### <center>V. Preprocessing Scheme</center>
+<h3 align="center">
+V. Preprocessing Scheme
+</h3>
 
 --------------------------------------------------------------------------------
 
@@ -138,6 +150,6 @@ CUSTOMISING THE PROGRAM
 | 		|	No		|	0	      |
 
 --------------------------------------------------------------------------------
-<center><b>EOF</b></center>
+<p align="center"><b>EOF</b></p>
 
 --------------------------------------------------------------------------------
