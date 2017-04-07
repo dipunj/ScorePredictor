@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------
 |S.no  |	Name		    |Type		      |		Task |
-|:----:|:----------------------:|:--------------------:|--------------------------------------------------- |
+|:----:|:-----------------------|:--------------------:|--------------------------------------------------- |
 |1.    |Driver.m                |Script                |The main script file containing the main program. |
 |2.    |cost.m                  |Function              |Evaluates cost. |
 |3.    |expo.m                  |Function              |exponentiate a particular column of a matrix. |
@@ -71,7 +71,9 @@ CUSTOMISING THE PROGRAM
 		make sure you provide the correct target matrix in line 63.
 
 --------------------------------------------------------------------------------
-<center><h3>IV. Variable Description for 'Driver.m'</h3></center>
+<p align = "center">
+<h3>IV. Variable Description for 'Driver.m'</h3>
+</p>
 --------------------------------------------------------------------------------
 
 | S.No.  | Variable Name	| Description								| Initialised Value(If Applicable) |
