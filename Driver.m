@@ -1,5 +1,4 @@
 %% ================== About the Program ===================================
-% Team Name :: The Layman Brothers
 % Input     :: All 30 features, training sets.
 % Output    :: Prediction of scores in three Subjects G1, G2 & G3 and their
 %              actual values
