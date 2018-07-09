@@ -1,4 +1,4 @@
-function training = importfile(filename, startRow, endRow)
+function training = import_feature(filename, startRow, endRow)
 %IMPORTFILE Import numeric data from a text file as a matrix.
 %   TRAINING = IMPORTFILE(FILENAME) Reads data from text file FILENAME for
 %   the default selection.
