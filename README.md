@@ -1,6 +1,6 @@
 # MachineLearning
 
-This repository contains python3 code for solving the ScorePredictor machine learning problem.
+This repository contains code for solving the ScorePredictor machine learning problem.
 The problem Score-Predictor was my first learning problem and hence I didn't use library frameworks.
 Instead I wrote them by myself in *Octave*. Others (hopefully in future as well) are written in python or other higher level programming languages.
 
